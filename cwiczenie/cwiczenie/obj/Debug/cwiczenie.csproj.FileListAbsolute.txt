@@ -1,0 +1,7 @@
+C:\Users\Piotr\source\repos\cwiczenie\cwiczenie\obj\Debug\cwiczenie.csprojAssemblyReference.cache
+C:\Users\Piotr\source\repos\cwiczenie\cwiczenie\obj\Debug\cwiczenie.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\cwiczenie\cwiczenie\bin\Debug\cwiczenie.exe.config
+C:\Users\Piotr\source\repos\cwiczenie\cwiczenie\bin\Debug\cwiczenie.exe
+C:\Users\Piotr\source\repos\cwiczenie\cwiczenie\bin\Debug\cwiczenie.pdb
+C:\Users\Piotr\source\repos\cwiczenie\cwiczenie\obj\Debug\cwiczenie.exe
+C:\Users\Piotr\source\repos\cwiczenie\cwiczenie\obj\Debug\cwiczenie.pdb

@@ -1,0 +1,7 @@
+C:\Users\Piotr\source\repos\Daty i godziny\Daty i godziny\bin\Debug\Daty i godziny.exe.config
+C:\Users\Piotr\source\repos\Daty i godziny\Daty i godziny\bin\Debug\Daty i godziny.exe
+C:\Users\Piotr\source\repos\Daty i godziny\Daty i godziny\bin\Debug\Daty i godziny.pdb
+C:\Users\Piotr\source\repos\Daty i godziny\Daty i godziny\obj\Debug\Daty i godziny.csprojAssemblyReference.cache
+C:\Users\Piotr\source\repos\Daty i godziny\Daty i godziny\obj\Debug\Daty i godziny.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\Daty i godziny\Daty i godziny\obj\Debug\Daty i godziny.exe
+C:\Users\Piotr\source\repos\Daty i godziny\Daty i godziny\obj\Debug\Daty i godziny.pdb

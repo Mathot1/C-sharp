@@ -1,0 +1,7 @@
+C:\Users\Piotr\source\repos\eee\enum jako kilka constant var\bin\Debug\enum jako kilka constant var.exe.config
+C:\Users\Piotr\source\repos\eee\enum jako kilka constant var\bin\Debug\enum jako kilka constant var.exe
+C:\Users\Piotr\source\repos\eee\enum jako kilka constant var\bin\Debug\enum jako kilka constant var.pdb
+C:\Users\Piotr\source\repos\eee\enum jako kilka constant var\obj\Debug\enum jako kilka constant var.csprojAssemblyReference.cache
+C:\Users\Piotr\source\repos\eee\enum jako kilka constant var\obj\Debug\enum jako kilka constant var.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\eee\enum jako kilka constant var\obj\Debug\enum jako kilka constant var.exe
+C:\Users\Piotr\source\repos\eee\enum jako kilka constant var\obj\Debug\enum jako kilka constant var.pdb

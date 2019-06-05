@@ -1,0 +1,7 @@
+C:\Users\Piotr\source\repos\dzielenieprzez3\dzielenieprzez3\bin\Debug\dzielenieprzez3.exe.config
+C:\Users\Piotr\source\repos\dzielenieprzez3\dzielenieprzez3\bin\Debug\dzielenieprzez3.exe
+C:\Users\Piotr\source\repos\dzielenieprzez3\dzielenieprzez3\bin\Debug\dzielenieprzez3.pdb
+C:\Users\Piotr\source\repos\dzielenieprzez3\dzielenieprzez3\obj\Debug\dzielenieprzez3.csprojAssemblyReference.cache
+C:\Users\Piotr\source\repos\dzielenieprzez3\dzielenieprzez3\obj\Debug\dzielenieprzez3.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\dzielenieprzez3\dzielenieprzez3\obj\Debug\dzielenieprzez3.exe
+C:\Users\Piotr\source\repos\dzielenieprzez3\dzielenieprzez3\obj\Debug\dzielenieprzez3.pdb
