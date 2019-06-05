@@ -1,0 +1,7 @@
+C:\Users\Piotr\source\repos\najdluzsze slowo\najdluzsze slowo\bin\Debug\najdluzsze slowo.exe.config
+C:\Users\Piotr\source\repos\najdluzsze slowo\najdluzsze slowo\bin\Debug\najdluzsze slowo.exe
+C:\Users\Piotr\source\repos\najdluzsze slowo\najdluzsze slowo\bin\Debug\najdluzsze slowo.pdb
+C:\Users\Piotr\source\repos\najdluzsze slowo\najdluzsze slowo\obj\Debug\najdluzsze slowo.csprojAssemblyReference.cache
+C:\Users\Piotr\source\repos\najdluzsze slowo\najdluzsze slowo\obj\Debug\najdluzsze slowo.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\najdluzsze slowo\najdluzsze slowo\obj\Debug\najdluzsze slowo.exe
+C:\Users\Piotr\source\repos\najdluzsze slowo\najdluzsze slowo\obj\Debug\najdluzsze slowo.pdb

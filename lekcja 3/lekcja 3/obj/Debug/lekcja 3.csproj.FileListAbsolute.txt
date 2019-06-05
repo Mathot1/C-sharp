@@ -1,0 +1,7 @@
+C:\Users\Piotr\source\repos\lekcja 3\lekcja 3\obj\Debug\lekcja 3.csprojAssemblyReference.cache
+C:\Users\Piotr\source\repos\lekcja 3\lekcja 3\obj\Debug\lekcja 3.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\lekcja 3\lekcja 3\bin\Debug\lekcja 3.exe.config
+C:\Users\Piotr\source\repos\lekcja 3\lekcja 3\bin\Debug\lekcja 3.exe
+C:\Users\Piotr\source\repos\lekcja 3\lekcja 3\bin\Debug\lekcja 3.pdb
+C:\Users\Piotr\source\repos\lekcja 3\lekcja 3\obj\Debug\lekcja 3.exe
+C:\Users\Piotr\source\repos\lekcja 3\lekcja 3\obj\Debug\lekcja 3.pdb

@@ -1,0 +1,7 @@
+C:\Users\Piotr\source\repos\lista\lista\bin\Debug\lista.exe.config
+C:\Users\Piotr\source\repos\lista\lista\bin\Debug\lista.exe
+C:\Users\Piotr\source\repos\lista\lista\bin\Debug\lista.pdb
+C:\Users\Piotr\source\repos\lista\lista\obj\Debug\lista.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\lista\lista\obj\Debug\lista.exe
+C:\Users\Piotr\source\repos\lista\lista\obj\Debug\lista.pdb
+C:\Users\Piotr\source\repos\lista\lista\obj\Debug\lista.csprojAssemblyReference.cache

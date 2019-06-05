@@ -1,0 +1,7 @@
+C:\Users\Piotr\source\repos\liczenie slow\liczenie slow\bin\Debug\liczenie slow.exe.config
+C:\Users\Piotr\source\repos\liczenie slow\liczenie slow\bin\Debug\liczenie slow.exe
+C:\Users\Piotr\source\repos\liczenie slow\liczenie slow\bin\Debug\liczenie slow.pdb
+C:\Users\Piotr\source\repos\liczenie slow\liczenie slow\obj\Debug\liczenie slow.csprojAssemblyReference.cache
+C:\Users\Piotr\source\repos\liczenie slow\liczenie slow\obj\Debug\liczenie slow.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\liczenie slow\liczenie slow\obj\Debug\liczenie slow.exe
+C:\Users\Piotr\source\repos\liczenie slow\liczenie slow\obj\Debug\liczenie slow.pdb
