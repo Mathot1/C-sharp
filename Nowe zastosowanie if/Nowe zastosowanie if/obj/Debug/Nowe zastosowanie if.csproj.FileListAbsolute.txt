@@ -1,0 +1,7 @@
+C:\Users\Piotr\source\repos\Nowe zastosowanie if\Nowe zastosowanie if\bin\Debug\Nowe zastosowanie if.exe.config
+C:\Users\Piotr\source\repos\Nowe zastosowanie if\Nowe zastosowanie if\bin\Debug\Nowe zastosowanie if.exe
+C:\Users\Piotr\source\repos\Nowe zastosowanie if\Nowe zastosowanie if\bin\Debug\Nowe zastosowanie if.pdb
+C:\Users\Piotr\source\repos\Nowe zastosowanie if\Nowe zastosowanie if\obj\Debug\Nowe zastosowanie if.csprojAssemblyReference.cache
+C:\Users\Piotr\source\repos\Nowe zastosowanie if\Nowe zastosowanie if\obj\Debug\Nowe zastosowanie if.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\Nowe zastosowanie if\Nowe zastosowanie if\obj\Debug\Nowe zastosowanie if.exe
+C:\Users\Piotr\source\repos\Nowe zastosowanie if\Nowe zastosowanie if\obj\Debug\Nowe zastosowanie if.pdb

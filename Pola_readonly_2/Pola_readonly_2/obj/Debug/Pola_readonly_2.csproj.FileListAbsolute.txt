@@ -1,0 +1,7 @@
+C:\Users\Piotr\source\repos\Pola_readonly_2\Pola_readonly_2\bin\Debug\Pola_readonly_2.exe.config
+C:\Users\Piotr\source\repos\Pola_readonly_2\Pola_readonly_2\bin\Debug\Pola_readonly_2.exe
+C:\Users\Piotr\source\repos\Pola_readonly_2\Pola_readonly_2\bin\Debug\Pola_readonly_2.pdb
+C:\Users\Piotr\source\repos\Pola_readonly_2\Pola_readonly_2\obj\Debug\Pola_readonly_2.csprojAssemblyReference.cache
+C:\Users\Piotr\source\repos\Pola_readonly_2\Pola_readonly_2\obj\Debug\Pola_readonly_2.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\Pola_readonly_2\Pola_readonly_2\obj\Debug\Pola_readonly_2.exe
+C:\Users\Piotr\source\repos\Pola_readonly_2\Pola_readonly_2\obj\Debug\Pola_readonly_2.pdb

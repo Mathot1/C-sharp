@@ -1,0 +1,7 @@
+C:\Users\Piotr\source\repos\Petle\Petle\bin\Debug\Petle.exe.config
+C:\Users\Piotr\source\repos\Petle\Petle\bin\Debug\Petle.exe
+C:\Users\Piotr\source\repos\Petle\Petle\bin\Debug\Petle.pdb
+C:\Users\Piotr\source\repos\Petle\Petle\obj\Debug\Petle.csprojAssemblyReference.cache
+C:\Users\Piotr\source\repos\Petle\Petle\obj\Debug\Petle.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\Petle\Petle\obj\Debug\Petle.exe
+C:\Users\Piotr\source\repos\Petle\Petle\obj\Debug\Petle.pdb

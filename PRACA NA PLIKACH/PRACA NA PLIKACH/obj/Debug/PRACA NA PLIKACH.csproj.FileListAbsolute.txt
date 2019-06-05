@@ -1,0 +1,7 @@
+C:\Users\Piotr\source\repos\PRACA NA PLIKACH\PRACA NA PLIKACH\bin\Debug\PRACA NA PLIKACH.exe.config
+C:\Users\Piotr\source\repos\PRACA NA PLIKACH\PRACA NA PLIKACH\bin\Debug\PRACA NA PLIKACH.exe
+C:\Users\Piotr\source\repos\PRACA NA PLIKACH\PRACA NA PLIKACH\bin\Debug\PRACA NA PLIKACH.pdb
+C:\Users\Piotr\source\repos\PRACA NA PLIKACH\PRACA NA PLIKACH\obj\Debug\PRACA NA PLIKACH.csprojAssemblyReference.cache
+C:\Users\Piotr\source\repos\PRACA NA PLIKACH\PRACA NA PLIKACH\obj\Debug\PRACA NA PLIKACH.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\PRACA NA PLIKACH\PRACA NA PLIKACH\obj\Debug\PRACA NA PLIKACH.exe
+C:\Users\Piotr\source\repos\PRACA NA PLIKACH\PRACA NA PLIKACH\obj\Debug\PRACA NA PLIKACH.pdb

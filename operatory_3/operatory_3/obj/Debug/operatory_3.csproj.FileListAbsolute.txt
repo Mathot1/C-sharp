@@ -1,0 +1,6 @@
+C:\Users\Piotr\source\repos\operatory_3\operatory_3\bin\Debug\operatory_3.exe.config
+C:\Users\Piotr\source\repos\operatory_3\operatory_3\bin\Debug\operatory_3.exe
+C:\Users\Piotr\source\repos\operatory_3\operatory_3\bin\Debug\operatory_3.pdb
+C:\Users\Piotr\source\repos\operatory_3\operatory_3\obj\Debug\operatory_3.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\operatory_3\operatory_3\obj\Debug\operatory_3.exe
+C:\Users\Piotr\source\repos\operatory_3\operatory_3\obj\Debug\operatory_3.pdb
