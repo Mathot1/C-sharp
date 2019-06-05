@@ -1,0 +1,6 @@
+C:\Users\Piotr\source\repos\stringi split i inne\stringi split i inne\bin\Debug\stringi split i inne.exe.config
+C:\Users\Piotr\source\repos\stringi split i inne\stringi split i inne\bin\Debug\stringi split i inne.exe
+C:\Users\Piotr\source\repos\stringi split i inne\stringi split i inne\bin\Debug\stringi split i inne.pdb
+C:\Users\Piotr\source\repos\stringi split i inne\stringi split i inne\obj\Debug\stringi split i inne.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\stringi split i inne\stringi split i inne\obj\Debug\stringi split i inne.exe
+C:\Users\Piotr\source\repos\stringi split i inne\stringi split i inne\obj\Debug\stringi split i inne.pdb

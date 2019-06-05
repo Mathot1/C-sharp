@@ -1,0 +1,7 @@
+C:\Users\Piotr\source\repos\reference type\reference type\obj\Debug\reference type.csprojAssemblyReference.cache
+C:\Users\Piotr\source\repos\reference type\reference type\obj\Debug\reference type.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\reference type\reference type\bin\Debug\reference type.exe.config
+C:\Users\Piotr\source\repos\reference type\reference type\bin\Debug\reference type.exe
+C:\Users\Piotr\source\repos\reference type\reference type\bin\Debug\reference type.pdb
+C:\Users\Piotr\source\repos\reference type\reference type\obj\Debug\reference type.exe
+C:\Users\Piotr\source\repos\reference type\reference type\obj\Debug\reference type.pdb

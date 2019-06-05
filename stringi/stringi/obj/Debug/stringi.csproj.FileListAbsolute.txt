@@ -1,0 +1,6 @@
+C:\Users\Piotr\source\repos\stringi\stringi\bin\Debug\stringi.exe.config
+C:\Users\Piotr\source\repos\stringi\stringi\bin\Debug\stringi.exe
+C:\Users\Piotr\source\repos\stringi\stringi\bin\Debug\stringi.pdb
+C:\Users\Piotr\source\repos\stringi\stringi\obj\Debug\stringi.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\stringi\stringi\obj\Debug\stringi.exe
+C:\Users\Piotr\source\repos\stringi\stringi\obj\Debug\stringi.pdb

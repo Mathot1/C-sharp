@@ -1,0 +1,6 @@
+C:\Users\Piotr\source\repos\Tablice\Tablice\bin\Debug\Tablice.exe.config
+C:\Users\Piotr\source\repos\Tablice\Tablice\bin\Debug\Tablice.exe
+C:\Users\Piotr\source\repos\Tablice\Tablice\bin\Debug\Tablice.pdb
+C:\Users\Piotr\source\repos\Tablice\Tablice\obj\Debug\Tablice.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\Tablice\Tablice\obj\Debug\Tablice.exe
+C:\Users\Piotr\source\repos\Tablice\Tablice\obj\Debug\Tablice.pdb

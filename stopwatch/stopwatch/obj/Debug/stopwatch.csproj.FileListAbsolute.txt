@@ -1,0 +1,7 @@
+C:\Users\Piotr\source\repos\stopwatch\stopwatch\bin\Debug\stopwatch.exe.config
+C:\Users\Piotr\source\repos\stopwatch\stopwatch\bin\Debug\stopwatch.exe
+C:\Users\Piotr\source\repos\stopwatch\stopwatch\bin\Debug\stopwatch.pdb
+C:\Users\Piotr\source\repos\stopwatch\stopwatch\obj\Debug\stopwatch.csprojAssemblyReference.cache
+C:\Users\Piotr\source\repos\stopwatch\stopwatch\obj\Debug\stopwatch.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\stopwatch\stopwatch\obj\Debug\stopwatch.exe
+C:\Users\Piotr\source\repos\stopwatch\stopwatch\obj\Debug\stopwatch.pdb

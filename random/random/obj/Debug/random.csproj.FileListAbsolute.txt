@@ -1,0 +1,7 @@
+C:\Users\Piotr\source\repos\random\random\bin\Debug\random.exe.config
+C:\Users\Piotr\source\repos\random\random\bin\Debug\random.exe
+C:\Users\Piotr\source\repos\random\random\bin\Debug\random.pdb
+C:\Users\Piotr\source\repos\random\random\obj\Debug\random.csprojAssemblyReference.cache
+C:\Users\Piotr\source\repos\random\random\obj\Debug\random.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\random\random\obj\Debug\random.exe
+C:\Users\Piotr\source\repos\random\random\obj\Debug\random.pdb
