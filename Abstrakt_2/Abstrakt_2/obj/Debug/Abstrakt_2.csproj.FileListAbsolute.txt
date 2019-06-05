@@ -1,0 +1,7 @@
+C:\Users\Piotr\source\repos\Abstrakt_2\Abstrakt_2\bin\Debug\Abstrakt_2.exe.config
+C:\Users\Piotr\source\repos\Abstrakt_2\Abstrakt_2\bin\Debug\Abstrakt_2.exe
+C:\Users\Piotr\source\repos\Abstrakt_2\Abstrakt_2\bin\Debug\Abstrakt_2.pdb
+C:\Users\Piotr\source\repos\Abstrakt_2\Abstrakt_2\obj\Debug\Abstrakt_2.csprojAssemblyReference.cache
+C:\Users\Piotr\source\repos\Abstrakt_2\Abstrakt_2\obj\Debug\Abstrakt_2.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\Abstrakt_2\Abstrakt_2\obj\Debug\Abstrakt_2.exe
+C:\Users\Piotr\source\repos\Abstrakt_2\Abstrakt_2\obj\Debug\Abstrakt_2.pdb
