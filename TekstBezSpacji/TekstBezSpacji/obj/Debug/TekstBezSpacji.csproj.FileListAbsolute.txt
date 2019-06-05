@@ -1,0 +1,7 @@
+C:\Users\Piotr\source\repos\TekstBezSpacji\TekstBezSpacji\bin\Debug\TekstBezSpacji.exe.config
+C:\Users\Piotr\source\repos\TekstBezSpacji\TekstBezSpacji\bin\Debug\TekstBezSpacji.exe
+C:\Users\Piotr\source\repos\TekstBezSpacji\TekstBezSpacji\bin\Debug\TekstBezSpacji.pdb
+C:\Users\Piotr\source\repos\TekstBezSpacji\TekstBezSpacji\obj\Debug\TekstBezSpacji.csprojAssemblyReference.cache
+C:\Users\Piotr\source\repos\TekstBezSpacji\TekstBezSpacji\obj\Debug\TekstBezSpacji.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\TekstBezSpacji\TekstBezSpacji\obj\Debug\TekstBezSpacji.exe
+C:\Users\Piotr\source\repos\TekstBezSpacji\TekstBezSpacji\obj\Debug\TekstBezSpacji.pdb
