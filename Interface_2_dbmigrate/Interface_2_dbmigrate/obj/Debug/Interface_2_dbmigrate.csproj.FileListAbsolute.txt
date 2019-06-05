@@ -1,0 +1,7 @@
+C:\Users\Piotr\source\repos\Interface_2_dbmigrate\Interface_2_dbmigrate\obj\Debug\Interface_2_dbmigrate.csprojAssemblyReference.cache
+C:\Users\Piotr\source\repos\Interface_2_dbmigrate\Interface_2_dbmigrate\obj\Debug\Interface_2_dbmigrate.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\Interface_2_dbmigrate\Interface_2_dbmigrate\bin\Debug\Interface_2_dbmigrate.exe.config
+C:\Users\Piotr\source\repos\Interface_2_dbmigrate\Interface_2_dbmigrate\bin\Debug\Interface_2_dbmigrate.exe
+C:\Users\Piotr\source\repos\Interface_2_dbmigrate\Interface_2_dbmigrate\bin\Debug\Interface_2_dbmigrate.pdb
+C:\Users\Piotr\source\repos\Interface_2_dbmigrate\Interface_2_dbmigrate\obj\Debug\Interface_2_dbmigrate.exe
+C:\Users\Piotr\source\repos\Interface_2_dbmigrate\Interface_2_dbmigrate\obj\Debug\Interface_2_dbmigrate.pdb

@@ -1,0 +1,7 @@
+C:\Users\Piotr\source\repos\klasy 2\klasy 2\bin\Debug\klasy 2.exe.config
+C:\Users\Piotr\source\repos\klasy 2\klasy 2\bin\Debug\klasy 2.exe
+C:\Users\Piotr\source\repos\klasy 2\klasy 2\bin\Debug\klasy 2.pdb
+C:\Users\Piotr\source\repos\klasy 2\klasy 2\obj\Debug\klasy 2.csprojAssemblyReference.cache
+C:\Users\Piotr\source\repos\klasy 2\klasy 2\obj\Debug\klasy 2.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\klasy 2\klasy 2\obj\Debug\klasy 2.exe
+C:\Users\Piotr\source\repos\klasy 2\klasy 2\obj\Debug\klasy 2.pdb

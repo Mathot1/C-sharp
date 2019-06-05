@@ -1,0 +1,6 @@
+C:\Users\Piotr\source\repos\Interakcja uzytkownika\Interakcja uzytkownika\bin\Debug\Interakcja uzytkownika.exe.config
+C:\Users\Piotr\source\repos\Interakcja uzytkownika\Interakcja uzytkownika\bin\Debug\Interakcja uzytkownika.exe
+C:\Users\Piotr\source\repos\Interakcja uzytkownika\Interakcja uzytkownika\bin\Debug\Interakcja uzytkownika.pdb
+C:\Users\Piotr\source\repos\Interakcja uzytkownika\Interakcja uzytkownika\obj\Debug\Interakcja uzytkownika.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\Interakcja uzytkownika\Interakcja uzytkownika\obj\Debug\Interakcja uzytkownika.exe
+C:\Users\Piotr\source\repos\Interakcja uzytkownika\Interakcja uzytkownika\obj\Debug\Interakcja uzytkownika.pdb

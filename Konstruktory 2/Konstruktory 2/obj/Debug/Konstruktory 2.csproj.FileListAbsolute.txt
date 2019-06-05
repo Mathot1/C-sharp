@@ -1,0 +1,7 @@
+C:\Users\Piotr\source\repos\Konstruktory 2\Konstruktory 2\bin\Debug\Konstruktory 2.exe.config
+C:\Users\Piotr\source\repos\Konstruktory 2\Konstruktory 2\bin\Debug\Konstruktory 2.exe
+C:\Users\Piotr\source\repos\Konstruktory 2\Konstruktory 2\bin\Debug\Konstruktory 2.pdb
+C:\Users\Piotr\source\repos\Konstruktory 2\Konstruktory 2\obj\Debug\Konstruktory 2.csprojAssemblyReference.cache
+C:\Users\Piotr\source\repos\Konstruktory 2\Konstruktory 2\obj\Debug\Konstruktory 2.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\Konstruktory 2\Konstruktory 2\obj\Debug\Konstruktory 2.exe
+C:\Users\Piotr\source\repos\Konstruktory 2\Konstruktory 2\obj\Debug\Konstruktory 2.pdb

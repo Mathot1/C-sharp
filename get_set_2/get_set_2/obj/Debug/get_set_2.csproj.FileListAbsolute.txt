@@ -1,0 +1,7 @@
+C:\Users\Piotr\source\repos\get_set_2\get_set_2\bin\Debug\get_set_2.exe.config
+C:\Users\Piotr\source\repos\get_set_2\get_set_2\bin\Debug\get_set_2.exe
+C:\Users\Piotr\source\repos\get_set_2\get_set_2\bin\Debug\get_set_2.pdb
+C:\Users\Piotr\source\repos\get_set_2\get_set_2\obj\Debug\get_set_2.csprojAssemblyReference.cache
+C:\Users\Piotr\source\repos\get_set_2\get_set_2\obj\Debug\get_set_2.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\source\repos\get_set_2\get_set_2\obj\Debug\get_set_2.exe
+C:\Users\Piotr\source\repos\get_set_2\get_set_2\obj\Debug\get_set_2.pdb
